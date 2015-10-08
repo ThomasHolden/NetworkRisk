@@ -137,6 +137,7 @@ def BootstrapMult(resid, marep, iter):
     return a_col.flatten(), b_col.flatten()
 
 # TEST
+# TEST TEST
 
 if __name__ == "__main__":
     df = pd.read_csv('C:/Users/thoru_000/Dropbox/Speciale/Data/thesis-data.csv', sep=",", nrows=1000)
